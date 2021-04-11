@@ -12,3 +12,5 @@ File description:
 - **allelelist.final**: a list of the cell lines and their assigned HLA-alleles used for training;
 
 - **allelelist.bench**: a list of the cell lines and their assigned HLA-alleles used for evaluation (benchmark);
+
+- **Benchmark**: a directory with the benchmark, 225 files, one for each peptide. In each file is the peptide, target value (1 = positive, 0 = negative), and cell line.
